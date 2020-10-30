@@ -1,0 +1,46 @@
+img{
+  height: 400px;
+}
+html{
+  background-color: rgb(227, 201, 245);
+  color: rgb(53, 19, 107);
+  border: 12px double rgb(167, 110, 233)
+}
+h1{
+  background-color: rgb(185, 144, 231);
+  font-style: italic;
+  border: 2px solid rgb(49, 16, 78)
+}
+h2{
+  background-color: rgb(185, 144, 231);
+  font-variant: small-caps;
+  border: 2px solid rgb(51, 17, 82)
+}
+p{
+  background-color: rgb(200, 161, 245)
+}
+a:link{
+  color: rgb(158, 11, 102);
+  border: 2px solid rgb(131, 32, 93);
+  padding: 15px;
+  background-color: rgb(248, 176, 220)
+}
+a:visited{
+  color: rgb(82, 84, 192)
+}
+a:hover{
+  color: rgb(10, 121, 121);
+  border: 2px solid rgb(9, 102, 97);
+  background-color: rgb(121, 241, 225);
+  box-shadow: 0px 0px 5px 5px rgb(156, 156, 156);
+  text-decoration: none
+}
+a.current{
+  color: rgb(94, 93, 93)
+}
+a:active{
+  color: rgb(10, 50, 158)
+}
+li{
+  margin-bottom: 50px
+}
