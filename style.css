@@ -1,5 +1,5 @@
 img{
-  height: 400px;
+  maxheight: 200px;
 }
 html{
   background-color: rgb(227, 201, 245);
@@ -43,4 +43,7 @@ a:active{
 }
 li{
   margin-bottom: 50px
+}
+.round{
+  border-radius: 50%;
 }
